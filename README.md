@@ -1,5 +1,6 @@
 # Custom-context-menu-js
-Custom context menu
+Custom context menu<br>
+JQuery is required!
 
 ```js
 // available custom context menu
